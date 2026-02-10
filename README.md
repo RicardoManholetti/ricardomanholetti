@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
 
 <br><br>
 
@@ -23,14 +23,14 @@
 
 <div align="center">
 
-🧱 Arquitetura &nbsp;&nbsp;•&nbsp;&nbsp; 🔄 Estado &nbsp;&nbsp;•&nbsp;&nbsp; 🚦 Qualidade &nbsp;&nbsp;•&nbsp;&nbsp; 🚀 Deploy
+🧱 Arquitetura &nbsp;•&nbsp; 🔄 Estado &nbsp;•&nbsp; 🚦 Qualidade &nbsp;•&nbsp; 🚀 Deploy
 
 <br>
 
 MVVM · Feature-first · SOLID  
 BLoC · Provider · MobX  
 Feature Flags · OAuth 2.0 · JWT  
-Testes · CI/CD · Platform Channels  
+CI/CD · Platform Channels  
 
 </div>
 
@@ -38,7 +38,7 @@ Testes · CI/CD · Platform Channels
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,swift,postman,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,swift,postman,vscode&perline=7" />
 
 </div>
 
@@ -46,9 +46,20 @@ Testes · CI/CD · Platform Channels
 
 <div align="center">
 
-🧠 Código organizado para manutenção  
-🧪 Testes onde fazem sentido  
-🚦 Releases com controle e segurança  
+🧠 Código organizado para evoluir sem quebrar  
+🧪 Testes focados em lógica, estado e fluxos críticos  
+🚦 Releases controlados com feature flags e rollback rápido  
+
+</div>
+
+---
+
+<div align="center">
+
+📱 Apps em produção  
+👥 Usuários reais  
+💳 Fluxos sensíveis (auth, pagamentos, dados)  
+🛠️ Código pensado para manutenção a longo prazo  
 
 </div>
 
