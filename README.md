@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=520&lines=Ricardo+Manholetti;Flutter+Developer;Mobile+Architecture+in+Practice" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=520&lines=Ricardo+Manholetti;Mobile+Developer;Mobile+Architecture+in+Practice" />
 </a>
 
 <br>
