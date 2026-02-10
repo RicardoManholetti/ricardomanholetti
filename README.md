@@ -1,23 +1,20 @@
 <div align="center">
 
-<!-- HEADER ANIMADO: Typing SVG -->
-<!-- Essa badge simula alguém digitando suas funções principais. Bem tech! -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Ricardo+Manholetti;Mobile+Developer+(Flutter);Clean+Architecture+Expert;Building+Scalable+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=520&lines=Ricardo+Manholetti;Mobile+Developer+(Flutter);Fintech+Apps+%7C+B2C+%26+B2B;MVVM+%7C+SOLID+%7C+State+Management;Firebase+%7C+CI%2FCD+%7C+REST+APIs" />
 </a>
 
 <br/>
 
-<!-- REDES SOCIAIS: Badges modernas flat -->
 <p align="center">
-  <a href="https://linkedin.com/in/ricardomanholetti" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://linkedin.com/in/ricardo-manholetti" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ricardomanholetti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://wa.me/5511987383630" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
@@ -25,70 +22,110 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-> 🚀 **Desenvolvedor Mobile Sênior** com foco em **Flutter** e **Firebase** (+4 Anos de XP).
->
-> Transformo café em código limpo, escalável e performático. Atuo na criação de soluções para fintechs (B2B/B2C), garantindo que cada pixel na tela seja suportado por uma arquitetura robusta (**SOLID**, **Clean Arch**, **MVVM**) e integração nativa impecável (**Swift**).
->
-> *Meu lema: Código deve ser tão bonito quanto a interface.*
+Mobile Developer with **~4 years of experience** building **B2C and B2B fintech applications** using **Flutter** and **Firebase**.
+
+I work on **production-grade mobile apps** with real users, real transactions and real constraints — focusing on **scalable architecture**, **clean code**, and **high-quality user experience**.
+
+My daily work includes:
+- Designing and maintaining Flutter applications using **MVVM** and **SOLID**
+- Managing state with **BLoC, Provider and MobX**
+- Integrating **RESTful APIs**, **OAuth 2.0** and **JWT**
+- Publishing apps to **App Store** and **Google Play**
+- Supporting **native iOS integrations (Swift)** via Platform Channels
+- Ensuring reliability through **tests, CI/CD pipelines and code reviews**
+
+Comfortable working in **Agile (Scrum) environments**, collaborating with cross-functional teams and remote stakeholders.
 
 ---
 
-<br/>
+## 🧠 Technical Focus Areas
 
-### 🛠️ Arsenal Tecnológico
+| Area | What I Actually Do |
+|---|---|
+| **Mobile Architecture** | MVVM, SOLID principles, modularization, clean layers |
+| **State Management** | BLoC, Provider, MobX |
+| **Authentication & Security** | OAuth 2.0, JWT, secure API consumption |
+| **Backend Integration** | REST APIs, JSON, error handling, scalability concerns |
+| **Firebase Ecosystem** | Firestore, Remote Config, Crashlytics, Feature Flags |
+| **Testing** | Unit tests & Widget tests for reliability |
+| **CI/CD & Release** | Automated pipelines, App Store & Google Play publishing |
+| **Native iOS** | Swift integrations, Platform Channels |
 
-<!-- SKILL ICONS: Ícones de alta qualidade em grid -->
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-| Core Mobile | Backend & Cloud | DevOps & Tools |
+| Mobile | Backend & Cloud | Tooling |
 |:---:|:---:|:---:|
-| <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter,dart,swift,apple" /></a> | <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase,gcp,postgres,mysql" /></a> | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /></a> |
+| <img src="https://skillicons.dev/icons?i=flutter,dart,swift,apple" /> | <img src="https://skillicons.dev/icons?i=firebase,gcp,postgres,mysql" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> |
 
 </div>
-
-<br/>
-
-### 📊 GitHub Analytics
-
-<!-- STATS CARDS: Dashboard visual da sua atividade -->
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardomanholetti&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomanholetti&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
 
 ---
 
-### 📜 Experiência Detalhada
+## 📊 GitHub Activity
 
-<details>
-<summary>⚡ <b>Clique para expandir: Minha Jornada Profissional</b></summary>
-<br/>
+<div align="center">
 
-#### 📱 JUSTA SOLUÇÕES FINANCEIRAS (2021 - 2025)
-*Desenvolvedor Mobile & Analista*
-*   Liderei o desenvolvimento do **Conta Justa 3.0**, impactando milhares de usuários.
-*   Implementei integrações críticas como **PIX** e **Cartões AMEX**.
-*   Elevei o padrão de engenharia com pipelines de **CI/CD**, Testes de Widget/Unitários e Code Reviews rigorosos.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardomanholetti&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomanholetti&layout=compact&theme=tokyonight&hide_border=true"/>
 
-#### 🎓 Formação Acadêmica
-**Bacharelado em Sistemas de Informação** | Universidade Anhembi Morumbi (2019 - 2025)
-*   *Vivência Internacional (Canadá) - Inglês Avançado*
+</div>
 
-</details>
+---
 
-<br/>
+## 🏢 Professional Experience
 
-<!-- FOOTER: Onda animada para finalizar com estilo -->
+### 📱 JUSTA SOLUÇÕES FINANCEIRAS  
+**Mobile Developer** — Jun 2022 → Jan 2025
+
+- Developed and maintained the **Conta Justa app (v2.0 → v3.0)**, used by **thousands of active users**
+- Implemented **AMEX credit card integration** and participated in **PIX integration** via BaaS providers
+- Designed features using **MVVM architecture** and **SOLID principles**
+- Integrated **Firebase services** (Firestore, Remote Config, Crashlytics) with feature flags for safe rollouts
+- Built **unit and widget tests**, improving reliability and reducing production issues
+- Managed **CI/CD pipelines** and app releases for App Store and Google Play
+- Worked closely with the team using **Git**, code reviews and Scrum ceremonies
+- Supported **native iOS integrations using Swift**, enhancing cross-platform capabilities
+
+---
+
+### 🛠️ JUSTA SOLUÇÕES FINANCEIRAS  
+**Technical Support Analyst** — Jun 2021 → Jun 2022
+
+- Provided **L3 technical support** for TEF (Electronic Funds Transfer) devices
+- Resolved critical incidents and analyzed operational metrics
+- Proposed process and platform improvements based on recurring issues
+
+---
+
+## 🎓 Education & Background
+
+- **Bachelor’s Degree in Information Systems**  
+  Universidade Anhembi Morumbi — 2019 → 2025
+
+- **International Experience**  
+  Vancouver, Canada — *English for Work*  
+  EC English Language School (2018)
+
+- **Languages**  
+  Portuguese (Native) | English (Advanced)
+
+---
+
+## 🚀 Results & Achievements
+
+- Delivered **Conta Justa 3.0**, reaching thousands of users
+- Implemented CI/CD pipelines, reducing release time and production failures
+- Improved code quality through automated testing
+- Expanded app capabilities with native iOS integrations
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
