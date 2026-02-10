@@ -23,14 +23,10 @@
 
 <div align="center">
 
-🧱 Arquitetura &nbsp;•&nbsp; 🔄 Estado &nbsp;•&nbsp; 🚦 Qualidade &nbsp;•&nbsp; 🚀 Deploy
-
-<br>
-
-MVVM · Feature-first · SOLID  
-BLoC · Provider · MobX  
-Feature Flags · OAuth 2.0 · JWT  
-CI/CD · Platform Channels  
+<img src="https://img.shields.io/badge/Architecture-MVVM%20%7C%20Feature--First%20%7C%20SOLID-1f6feb?style=flat"/>
+<img src="https://img.shields.io/badge/State-BLoC%20%7C%20Provider%20%7C%20MobX-1f6feb?style=flat"/>
+<img src="https://img.shields.io/badge/Quality-Feature%20Flags%20%7C%20Auth%20%7C%20Testing-1f6feb?style=flat"/>
+<img src="https://img.shields.io/badge/Delivery-CI%2FCD%20%7C%20Releases-1f6feb?style=flat"/>
 
 </div>
 
@@ -44,24 +40,23 @@ CI/CD · Platform Channels
 
 ---
 
-<div align="center">
+### Soluções que aplico no dia a dia
 
-🧠 Código organizado para evoluir sem quebrar  
-🧪 Testes focados em lógica, estado e fluxos críticos  
-🚦 Releases controlados com feature flags e rollback rápido  
-
-</div>
+- Organização por feature com separação clara de camadas
+- Estado previsível para fluxos críticos
+- Feature flags para controle de release
+- Autenticação segura (OAuth 2.0 / JWT)
+- Testes focados em lógica, estado e fluxos sensíveis
+- CI/CD para reduzir erro manual em produção
 
 ---
 
-<div align="center">
+### Contexto real de uso
 
-📱 Apps em produção  
-👥 Usuários reais  
-💳 Fluxos sensíveis (auth, pagamentos, dados)  
-🛠️ Código pensado para manutenção a longo prazo  
-
-</div>
+- Aplicações em produção
+- Usuários reais
+- Fluxos sensíveis (auth, pagamentos, dados)
+- Código pensado para manutenção a longo prazo
 
 ---
 
